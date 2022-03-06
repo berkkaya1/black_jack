@@ -2,4 +2,4 @@
 
 A basic Black Jack game made by Flutter.
 
-![alt text](https://ibb.co/4SWZwt3)
+![This is an image](https://ibb.co/4SWZwt3)
