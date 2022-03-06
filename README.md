@@ -2,4 +2,4 @@
 
 A basic Black Jack game made by Flutter.
 
-!(image.png)
+![ornek resim](/assets/image.png)
