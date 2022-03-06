@@ -1,6 +1,6 @@
 # black_jack
 
-A new Flutter project.
+A basic Black Jack game made by Flutter.
 
 ## Getting Started
 
